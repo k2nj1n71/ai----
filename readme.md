@@ -1,5 +1,5 @@
 ## 原圖
-![原圖](IMG_7809.png)
+![原圖](3.PNG)
 
 ## 生成圖
 ![生成](ComfyUI_temp_gaxbs_00008_.png)
